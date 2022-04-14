@@ -1,0 +1,34 @@
+id: PD4844D1D
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1CZ1997
+  instance_id: http://purl.bdrc.io/resource/IE2DB4576
+  collection_id: http://purl.bdrc.io/resource/PR0ET005
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྒྱ་བོད་ཡིག་ཚང་ཆེན་མོ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - xue yu li shi ming zhu jing xuan
+    en-x-mixed:
+    - Rgyal rabs maṅ poʼi legs bśad rnam graṅs yid ʼdzin nor buʼi phreṅ ba bźugs /Stag-tshaṅ
+      Dpal-ʼbyor-bzaṅ-pos brtsams ; Dpal brtsegs Bod yig dpe rñiṅ źib ʼjug khaṅ nas
+      bsgrigs.
+  author: http://purl.bdrc.io/resource/P6979
+  publisher: KarmaDelek
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    231d1853ec4f49c5bb1649505b29b942:
+      title: བསྟན་པའི་གནས་ཚད།ཐུབ་པའི་བསྟན་པ་གནས་ཚད་ལ།མདོ་སྡེ་བསྐལ་བཟང་ལས།དམ་པའི་ཆོས་ནི་ལོ་ལྔ་བརྒྱ་དང་གཟུགས་བརྙན་ལྔ་བརྒྱ་སྟཻ།ལོ་སྟོང་དུ་གནས་ཟེ
+      volume_number: 1
+      base_file: UT2DB4576_001_0015.txt
+      reference: http://purl.bdrc.io/resource/VL664D67EC9C84AC6A
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW2DB4576
+  - http://purl.bdrc.io/resource/W2DB4576
+created_at: '2021-12-29T12:25:08.072554'
+last_modified_at: '2021-12-29T12:25:08.072574'

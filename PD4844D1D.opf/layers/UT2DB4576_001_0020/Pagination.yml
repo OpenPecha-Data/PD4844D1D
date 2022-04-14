@@ -1,0 +1,100 @@
+id: 1d53a38cc54a4894af7662e87b0870bd
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  c05ec98d4a40429c8c2efe4bcd4bb76f:
+    span:
+      start: 4360
+      end: 5801
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP6918C42E1A30FB4C
+  16ddd0ba3f484c71975949f6318fc291:
+    span:
+      start: 12966
+      end: 13863
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EPAD91329F8474FA74
+  bf7072cbc030486f878aa6b46228722f:
+    span:
+      start: 8690
+      end: 10107
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP0A3BDD16419CB11A
+  5fb4243486574e9b8081584bb1642be3:
+    span:
+      start: 13865
+      end: 14017
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP0011D8149AAF4A50
+  ad8922ad1f784d70b93140093a21b643:
+    span:
+      start: 1485
+      end: 2918
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP258C37AEF250F279
+  e0cfaf05f97241b096c7dc6bfd712df4:
+    span:
+      start: 2920
+      end: 4358
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPC1D2DB1B13AB0F30
+  6567e1c92a4c4d1690d7efa5b122faf2:
+    span:
+      start: 0
+      end: 44
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPFC113DC546028D4B
+  c9560ce570d54761a60aefe8db217749:
+    span:
+      start: 7245
+      end: 8688
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP17CDF96F56E482CF
+  85ba73139b6447269e5bd47eb9a07e55:
+    span:
+      start: 46
+      end: 1483
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP0BC727AF535D2260
+  c660bd3b547548e995533737a9359af5:
+    span:
+      start: 10109
+      end: 11537
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPB71AFA7F1A2A5173
+  5a2d11ad25f6489b97168f8790c8866a:
+    span:
+      start: 5803
+      end: 7243
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPB86BE4C03008A57E
+  7806b98c20df4363aa675f2045417a6a:
+    span:
+      start: 11539
+      end: 12964
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP33B21034F93DFF82
