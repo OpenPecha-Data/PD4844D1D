@@ -32,3 +32,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/W2DB4576
 created_at: '2021-12-29T12:25:08.072554'
 last_modified_at: '2021-12-29T12:25:08.072574'
+statistics:
+  total_words: 85624
+  total_non_words: 10708
+quality:
+  non_words_ratio: 0.13
